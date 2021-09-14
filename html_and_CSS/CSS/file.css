@@ -10,6 +10,13 @@ p {
     color: blue;   
 }
 
+/* Con id's */
+
+#texto {
+    font-size: 17px;
+    color: rgb(10, 83, 126);
+}
+
 /*
     Importante recordar que html toma en cuenta el último valor agragado
     por eso ahora es azul.
