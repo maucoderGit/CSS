@@ -14,3 +14,21 @@
     padding: 5px;
     text-decoration: none;
 }
+
+.main-nav__item a:hover{
+    text-decoration: underline solid #062727;
+}
+
+.main-nav__item a:active{
+    color: red;    
+}
+
+.main-nav__item a::before{
+    content:" | ";
+}
+
+/*Las pseudo clases definen el estilo de un estado
+como ejemplo click, hover, etc */
+
+/*los pseudo elementos definen el estilo
+una parte especifica */
