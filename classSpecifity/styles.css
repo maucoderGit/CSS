@@ -35,3 +35,7 @@ h1 {
     border-radius: 2px;
     text-decoration: none;
 }
+
+#main-nav a:hover{
+    text-decoration: underline solid #FFFFFF;
+}
